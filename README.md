@@ -1,4 +1,4 @@
-# TensorFlow C++ and Python Image Recognition Demo
+# YOLOv5 Video Recognition Inference Demo
 
 ## Description
 
